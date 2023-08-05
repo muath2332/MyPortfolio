@@ -1,0 +1,71 @@
+.c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Home{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    float: right;
+}
+body{
+    background-color: rgb(50, 173, 173);
+}
+#nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.bv{
+    margin-left: 59px;
+}
+
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color: black;
+}
+
+
+#About-me{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bb{
+    text-align: center;
+    line-height: 22px;
+}
+
+#skills{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#Contact{
+    background-color: rgb(23, 32, 32);
+    margin-bottom: 0;
+    padding-bottom: 1px;
+}
+
+.v{
+    
+}
